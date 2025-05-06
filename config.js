@@ -52,7 +52,7 @@ module.exports = {
   GOODBYE_MSG: process.env.GOODBYE_MSG || "Hi $mention It was Nice Seeing you",
   MEDIA_DATA: process.env.MEDIA_DATA|| 'ʟɪꜱᴛ ᴍᴇɴᴜ;ᴊᴀʀᴠɪꜱ-ᴍᴅ;https://graph.org/file/58ea74675af7836579a3a.jpg',
   MENU_FONT: process.env.MENU_FONT || "0;0",
-  SUDO: process.env.SUDO || '',
+  SUDO: process.env.SUDO || 'Jarvis_0885_0z9x_x219_1860_09wy_7x6y_80ux_0zvx',
   AUTH_FILE: process.env.AUTH_FILE,
   DISABLE_PM: toBool(process.env.DISABLE_PM || "false"),
   DISABLE_GRP: toBool(process.env.DISABLE_GRP || "false"),
